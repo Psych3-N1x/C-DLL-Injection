@@ -91,5 +91,7 @@ DLL injection successful!
     Le code peut être facilement adapté pour injecter dans d’autres processus (changer le nom du .exe).
 **MIT LICENSE ADDED**
 
+[Voir la licence MIT](LICENSE)
+(LICENSE)
 
 
