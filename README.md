@@ -89,3 +89,4 @@ DLL injection successful!
     CreateRemoteThread appelle LoadLibraryA pour charger la DLL.
 
     Le code peut être facilement adapté pour injecter dans d’autres processus (changer le nom du .exe).
+**MIT LICENSE ADDED**
